@@ -1,6 +1,6 @@
 const fn = () => {
     const miString = "string de prueba"
-    let b = miString + "string funciono con exito"
+    let b = miString + "XD"
     console.log(b)
 }
 
