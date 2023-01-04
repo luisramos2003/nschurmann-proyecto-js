@@ -1,7 +1,6 @@
 const fn = () => {
-    const miString = "string de prueba"
-    let b = `${miString}XD`
-    console.log(b)
+   
+
 }
 
 fn()
